@@ -83,7 +83,7 @@ body {
     position: absolute;
     left: 33%;
     background-size: 500px 500px;
-    background-image: url("images/RR.png");
+    background-image: url("images/RRname.png");
     background-repeat: no-repeat;
     animation:slider 10s linear infinite;
 }
