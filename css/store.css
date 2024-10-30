@@ -235,9 +235,8 @@ footer {
     font-size: .70em;
     font-style: italic;
     text-align: center;
-    padding: 3em;
+    padding: 2em;
     color: #F4F7F5;
-    margin-top: 20px;
     background-color: #222823;
 }
 
@@ -345,4 +344,17 @@ textarea {
 
 .middle-line {
     border-bottom: 2px solid #888;
+}
+
+.FLeft {
+    width: 50%;
+}
+
+.FCenter {
+    width: 100%;
+}
+
+.FRight {
+    margin-bottom: 1em;
+    width: 150%;
 }
