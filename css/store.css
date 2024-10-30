@@ -207,6 +207,13 @@ img {
     text-align: center;
 }
 
+.products-prod img
+{
+    height: 150px;
+    width: auto;
+    object-fit: cover;
+}
+
 
 .container button {
     text-align: center;
