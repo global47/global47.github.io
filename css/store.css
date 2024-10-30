@@ -189,6 +189,13 @@ img {
     
 }
 
+.products img
+{
+    height: 250px;
+    width: auto;
+    object-fit: cover;
+}
+
 .products-prod {
     list-style: none;
     padding: 0;
@@ -198,6 +205,13 @@ img {
     grid-gap: 5em;
     justify-content: center;
     text-align: center;
+}
+
+.products-prod img
+{
+    height: 150px;
+    width: auto;
+    object-fit: cover;
 }
 
 
